@@ -1,18 +1,16 @@
-### Hi there 👋
+# 🗡ASPIRE Lab🛡️
 
-<!--
-**LabASPIRE/LabASPIRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☺️ Introduction
 
-Here are some ideas to get you started:
+**Welcome to the official GitHub repository of ASPIRE Lab!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔭 About ASPIRE**
 
-This is the official github repo of ASPIRE Lab, containing the datasets, paper, tool models as well as the ReadingGroup paper for weekly meetings.
+We are the ASPIRE Laboratory of ShanghaiTech University. ASPIRE is derived from "AI Security, PrIvacy, and RobustnEss." 
+
+Our primary research focus is on the privacy and security of artificial intelligence, particularly in the fields of natural language processing and computer vision. We delve into topics such as defense and attack strategies concerning large language models and multimodal architectures.
+
+** About this repo **
+This is the official GitHub repository of ASPIRE Lab, containing the datasets, papers, tool models, and the ReadingGroup slides for weekly meetings.
+
+You can also find the resources of our works here in the future!
