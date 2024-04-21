@@ -49,7 +49,10 @@ Work in progress...
 | 24.03 |UIUC| ArXiv |[RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content](https://arxiv.org/pdf/2403.13031.pdf)|[24.03.29](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/RigorLLM%26HADES.pdf)|
 | 24.03 |Renmin University| ArXiv |[Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](https://arxiv.org/pdf/2403.09792.pdf)|[24.03.29](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/RigorLLM%26HADES.pdf)|
 | 23.10 |UMD| CVPR2024 |[HALLUSIONBENCH: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models](https://arxiv.org/pdf/2310.14566.pdf)|[24.03.29](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/HallusionBench.pdf)|
-| 23.10 |SUTD&SeaAI| NIPS2023 |[AttackVLM: OnEvaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/pdf/2310.14566.pdf)|[24.03.29](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/AttackVLM.pdf)|
+| 23.10 |SUTD&SeaAI| NIPS2023 |[AttackVLM: OnEvaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/pdf/2310.14566.pdf)|[24.04.12](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/AttackVLM.pdf)|
+| 24.04 |The Ohio State University| ArXiv |[AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs](https://arxiv.org/pdf/2404.07921.pdf)|[24.04.19](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/RethinkEval%26AmpleGCG.pdf)|
+| 24.04 |Purdue University| ArXiv |[Rethinking How to Evaluate Language Model Jailbreak](https://arxiv.org/pdf/2404.06407.pdf)|[24.04.19](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/RethinkEval%26AmpleGCG.pdf)|
+| 24.04 |South China University of Technology| ArXiv |[Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://arxiv.org/pdf/2404.05880.pdf)|[24.04.19](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/Eraser.pdf)|
 
 
 ---
