@@ -53,6 +53,8 @@ Work in progress...
 | 24.04 |The Ohio State University| ArXiv |[AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs](https://arxiv.org/pdf/2404.07921.pdf)|[24.04.19](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/RethinkEval%26AmpleGCG.pdf)|
 | 24.04 |Purdue University| ArXiv |[Rethinking How to Evaluate Language Model Jailbreak](https://arxiv.org/pdf/2404.06407.pdf)|[24.04.19](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/RethinkEval%26AmpleGCG.pdf)|
 | 24.04 |South China University of Technology| ArXiv |[Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://arxiv.org/pdf/2404.05880.pdf)|[24.04.19](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/Eraser.pdf)|
+| 23.11 |HUST| ArXiv |[Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts](https://arxiv.org/pdf/2311.09127)|[24.04.28](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/SASP.pdf)|
+| 24.04 |ZJU| ArXiv |[JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models](https://arxiv.org/pdf/2404.08793)|[24.04.28](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/JailbreakLens.pdf)|
 
 
 ---
