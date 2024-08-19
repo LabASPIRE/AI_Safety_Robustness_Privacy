@@ -66,6 +66,8 @@ Work in progress...
 | 24.02<br>24.06 | ShanghaiAILab<br>HKU | Arxiv |[EMULATED DISALIGNMENT: SAFETY ALIGNMENT FOR LARGE LANGUAGE MODELS MAY BACKFIRE!](https://arxiv.org/pdf/2402.12343v1)<br>[JAILBREAKING AS A REWARD MISSPECIFICATION PROBLEM](https://arxiv.org/pdf/2406.14393)|[24.07.12](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/Emulated%20disalignment%20%26%20ReGap.pdf)|
 | 24.05 | UCR | Arxiv |[Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/pdf/2406.02575)|[24.07.19](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/Is%20textual%20unlearning%20all%20your%20need.pdf)|
 | 23.11 | UML | ECCV2024 |[MultiDelete for Multimodal Machine Unlearning](https://arxiv.org/pdf/2311.12047)|[24.07.19](https://github.com/LabASPIRE/LabASPIRE/blob/main/ReadingGroup/Slide/Multimodal%20unlearning.pdf)|
+| 24.07 | OPENAI | preprint |[Rule Based Reward for Language Model Safety](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf)|[24.08.02](https://github.com/LabASPIRE/AI_Safety_Robustness_Privacy/blob/main/ReadingGroup/Slide/Rule%20Based%20Rewards%20for%20Language%20Model%20Safety.pdf)|
+| 23.11 | SJTU | Arxiv |[The Philosopher’s Stone: Trojaning Plugins of Large Language Models](https://arxiv.org/pdf/2312.00374)|[24.08.02](https://github.com/LabASPIRE/AI_Safety_Robustness_Privacy/blob/main/ReadingGroup/Slide/The%20Philosopher%E2%80%99s%20Stone.pdf)|
 
 ---
 ## 🤖Tool Models
